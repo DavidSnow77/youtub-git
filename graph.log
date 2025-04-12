@@ -1,0 +1,28 @@
+* 5e01c95 AGREGANDO DOS PARRAFOS
+*   31d94fc resolviendo conflictp en ESTACIONES DEL AÑO DE INICIO y fechas de inicio
+|\  
+| * ef657ff AGREGANDO LAS ESTACIONES DEL AÑO
+* | ca39929 AGREGANDO ESTCIONES DEL AÑOS CON FECHA
+|/  
+*   db6b3eb RESOLVIENDO CONFLICTO MARGE MAIN/HTML EN EL DOCUMENTO INDEX.HTML
+|\  
+| * b148046 Agregando index.js al index.html
+* | 0824812 Agregando style.css al index.html
+* | cc835b9 Dejó de rastrear david.exe
+* | 301f074 Añadido para ignorar archivos no necesarios
+* | 2e3d6d3 Añadido para ignorar archivos no necesarios
+* | cbade7b Añadido para ignorar archivos no necesarios
+* |   b6d3723 Merge branch 'js'
+|\ \  
+| * | d2c94e4 CREANDO ARCHIVO JS
+* | | 157b78b CREANDO STYLE CSS
+| |/  
+|/|   
+* | 2434781 CREANDO ARCHIVO HTML
+|/  
+* 4853ac8 Actualizando reglas de ignorar en .gitignore
+* dcbe7f9 Renombrar LICENSE a license.txt
+* 8fea37f Creando licencia del repositorio
+* 6de08e6 Agregando mas contenido del README
+* 8761d37 Agregando contenido inicial del README
+* 118fd69 PRIMER COMMIT 🥲

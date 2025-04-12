@@ -1,0 +1,128 @@
+commit 5e01c956225a15d8fa44cc4485a22ebbdef87306
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Fri Apr 11 21:13:02 2025 -0600
+
+    AGREGANDO DOS PARRAFOS
+
+commit 31d94fcba3ffe25f1de41301c9c5b3194d12508d
+Merge: ca39929 ef657ff
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Fri Apr 11 12:45:37 2025 -0600
+
+    resolviendo conflictp en ESTACIONES DEL AÑO DE INICIO y fechas de inicio
+
+commit ca39929911bd9c3fc777ee88b379f0a0383ea7a1
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Fri Apr 11 12:06:55 2025 -0600
+
+    AGREGANDO ESTCIONES DEL AÑOS CON FECHA
+
+commit ef657ff0ddffecfa6c53a809a76cebcc708365dc
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Fri Apr 11 12:06:55 2025 -0600
+
+    AGREGANDO LAS ESTACIONES DEL AÑO
+
+commit db6b3eb0f4646f92369039aa6a8ab5bf3c98b86d
+Merge: 0824812 b148046
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Fri Apr 11 12:01:05 2025 -0600
+
+    RESOLVIENDO CONFLICTO MARGE MAIN/HTML EN EL DOCUMENTO INDEX.HTML
+
+commit b14804652185fc72db4cdcec15559b38851a6d57
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Thu Apr 10 21:20:09 2025 -0600
+
+    Agregando index.js al index.html
+
+commit 08248128969d9d73e07a288adbc84db66ca0b519
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Thu Apr 10 21:16:12 2025 -0600
+
+    Agregando style.css al index.html
+
+commit cc835b97e435ec97fa5d64c856afc957a3c98436
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Thu Apr 10 18:46:07 2025 -0600
+
+    Dejó de rastrear david.exe
+
+commit 301f074a1d838c1d71963ced7c2adb09ab80c2e8
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Thu Apr 10 18:37:45 2025 -0600
+
+    Añadido para ignorar archivos no necesarios
+
+commit 2e3d6d30cf188533f18795630fe4c89a4e68da70
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Thu Apr 10 18:36:10 2025 -0600
+
+    Añadido para ignorar archivos no necesarios
+
+commit cbade7bda1ac5340ef3194381943c151426243cc
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Thu Apr 10 18:32:09 2025 -0600
+
+    Añadido para ignorar archivos no necesarios
+
+commit b6d3723e17f592b5f1040919dd2ef16483a72c96
+Merge: 157b78b d2c94e4
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Thu Apr 10 18:22:54 2025 -0600
+
+    Merge branch 'js'
+
+commit d2c94e4b835731b5194d964f8a20499405dcaa47
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Thu Apr 10 17:12:44 2025 -0600
+
+    CREANDO ARCHIVO JS
+
+commit 157b78b2ed0a2f754b0ab8c04ac52e6a99c9854d
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Thu Apr 10 17:04:49 2025 -0600
+
+    CREANDO STYLE CSS
+
+commit 243478124681a146a451179726845bcb8601cfc4
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Thu Apr 10 16:54:09 2025 -0600
+
+    CREANDO ARCHIVO HTML
+
+commit 4853ac83b30aa2f239c9453377496b67758a853b
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Thu Apr 10 16:15:23 2025 -0600
+
+    Actualizando reglas de ignorar en .gitignore
+
+commit dcbe7f95a50420261fc140d4a08cc041723e7405
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Sun Apr 6 20:02:10 2025 -0600
+
+    Renombrar LICENSE a license.txt
+
+commit 8fea37ffcc640101babb524a42fd2b69dd202e8f
+Author: DavidSnow77 <20233l001068@utcv.edu.mx>
+Date:   Sun Apr 6 19:54:15 2025 -0600
+
+    Creando licencia del repositorio
+
+commit 6de08e64f5bdd1e1897129dbe81f30db8005d6cc
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Sun Apr 6 14:51:19 2025 -0600
+
+    Agregando mas contenido del README
+
+commit 8761d37074637ef2f86cc21faf1ba10a8371e6b9
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Sun Apr 6 13:05:18 2025 -0600
+
+    Agregando contenido inicial del README
+
+commit 118fd692f2401048e866f448416411d5b42542d8
+Author: David Nieves <20233l001068@utcv.edu.mx>
+Date:   Sun Apr 6 13:00:31 2025 -0600
+
+    PRIMER COMMIT 🥲
