@@ -4,4 +4,6 @@ Hola Mi nombre es David
 
 Soy estudiante de la UTCV
 
-Este commit es para ofizializar nuestra version **1.0.0**.
+¿Quieres dominar el uso de Git?
+
+Cambio de prueba
