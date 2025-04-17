@@ -4,6 +4,6 @@ Hola Mi nombre es David
 
 Soy estudiante de la UTCV
 
-ESTE ES OTRO CAMBIO SEGUNDO INTENTO
+HOLA ESTE SI ES EL CAMBIO NUEVAMENTE
 
-Mi nombre es David Nieves
+AVER SI YA NO HAY CONFLICTOS
